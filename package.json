@@ -1,0 +1,24 @@
+{
+  "name": "websocket-protal",
+  "version": "1.0.0",
+  "description": "websocket project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SawWu/websocket-protal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SawWu/websocket-protal/issues"
+  },
+  "homepage": "https://github.com/SawWu/websocket-protal#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "socket.io": "^2.2.0"
+  }
+}
